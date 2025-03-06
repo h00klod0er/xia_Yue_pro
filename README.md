@@ -1,4 +1,4 @@
-# 🎯 xia_Yue_pro 2.0 
+# 🎯 xia_Yue_pro 
 
 > 🔄 瞎越修改版，专注于越权漏洞检测的 Burp Suite 插件
 
