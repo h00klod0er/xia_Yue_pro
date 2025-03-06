@@ -2,8 +2,7 @@
 
 > 🔄 瞎越修改版，专注于越权漏洞检测的 Burp Suite 插件
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/xia_yue_pro)](https://github.com/yourusername/xia_yue_pro/stargazers)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/h00klod0er/xia_yue_pro)](https://github.com/h00klod0er/xia_yue_pro/stargazers)
 
 基于原版[瞎越](https://github.com/smxiazi/xia_Yue)插件优化，增强越权和未授权测试功能。
 
@@ -20,7 +19,7 @@
 
 修复了原版插件在重放请求时中文出现乱码的问题：
 - ✅ 支持 UTF-8 编码
-- ✅ 兼容 Burp Suite 2024.3
+- ✅ Burp Suite 2024.3 测试没有问题，可自行测试
 - ✅ 完整的中文支持
 
 <img src="https://github.com/user-attachments/assets/692f5f08-1610-40fa-a8ee-685006c229c9" width="50%">
