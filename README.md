@@ -1,6 +1,6 @@
 # 🎯 xia_Yue_pro 
 
-> 🔄 瞎越修改版，专注于越权漏洞检测的 Burp Suite 插件
+>  瞎越修改版，专注于越权漏洞检测的 Burp Suite 插件
 
 [![GitHub stars](https://img.shields.io/github/stars/h00klod0er/xia_yue_pro)](https://github.com/h00klod0er/xia_yue_pro/stargazers)
 
@@ -12,6 +12,7 @@
 - 🔍 支持请求行参数越权测试
 - 🚀 添加对比视图，可对比请求和响应（方便截图）
 - 💡 可一键复制存在越权的URL，一键发送请求包中的cookie到插件
+- 🔄 添加允许重复URL请求越权测试功能，适用于多个功能只通过一个URL进行请求的系统
 
 ## 🔨 功能改进
 
