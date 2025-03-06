@@ -79,9 +79,6 @@ sed to xiayue 可发送请求包到插件进行测试
 
 欢迎提交 Issue 和 Pull Request！
 
-## 📄 许可证
-
-[MIT License](LICENSE)
 
 ## 🙏 致谢
 
