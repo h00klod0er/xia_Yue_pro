@@ -14,16 +14,16 @@
    - 默认跳过 html 静态页面，也可以添加其他静态页面跳过
    - 支持多个后缀名配置，用逗号分隔
    - 可以随时启用/禁用
-   <img width="1070" height="128" alt="image" src="https://github.com/user-attachments/assets/023850e3-c93e-497a-9a66-b1fd5d299181" />
+   <img width="40%" alt="image" src="https://github.com/user-attachments/assets/023850e3-c93e-497a-9a66-b1fd5d299181" />
 
 2. 手动测试模式
    - 新增"仅接受右键发送的包进行越权测试"选项
    - 打开后仅接受右键中“send to xiayue”的请求包进行越权测试，不会自动进行越权测试
-<img width="531" height="53" alt="image" src="https://github.com/user-attachments/assets/dc4426f2-5bfe-4eb9-a384-73bae57e3811" />
+   <img width="40%" src="https://github.com/user-attachments/assets/dc4426f2-5bfe-4eb9-a384-73bae57e3811" />
 
 3. 仅显示越权请求
    - 新增复选框，可以只显示存在越权的请求，方便快速查看越权请求包
- <img width="302" height="43" alt="image" src="https://github.com/user-attachments/assets/58e03578-7e54-462d-acb6-f62cd12fe4f9" />
+   <img width="30%" alt="image" src="https://github.com/user-attachments/assets/58e03578-7e54-462d-acb6-f62cd12fe4f9" />
 
 4.添加jdk8编译的版本，大家自测
 
