@@ -12,12 +12,12 @@
 2.添加参数置空越权测试，打开后会自动将POST请求包和json请求包里的数据置空重新发送一遍请求包进行越权测试
 
 3.添加其他常见越权测试方法，可打开其他越权测试进行测试，例如：;.js,/;/等导致的越权
-<img width="40%" alt="image" src="https://github.com/user-attachments/assets/5f3414d8-00ab-4165-bcea-e195bad92450" />
+<img width="70%" alt="image" src="https://github.com/user-attachments/assets/5f3414d8-00ab-4165-bcea-e195bad92450" />
 
 <img width="80%" alt="image" src="https://github.com/user-attachments/assets/c41ca474-486b-4f43-93ac-7d73bdc05fc5" />
 
 4.添加多身份越权测试功能，开启后可以填入多个不同权限的cookie等字段进行越权测试
-<img width="40%" alt="image" alt="image" src="https://github.com/user-attachments/assets/a2a85783-e9eb-4d27-9505-ef27888be580" />
+<img width="80%" alt="image" alt="image" src="https://github.com/user-attachments/assets/a2a85783-e9eb-4d27-9505-ef27888be580" />
 
 
 
