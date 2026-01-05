@@ -6,6 +6,15 @@
 
 基于原版[瞎越](https://github.com/smxiazi/xia_Yue)插件优化，增强越权和未授权测试功能。
 
+# xia Yue Pro v3.0 版本更新日志
+1.重构界面，把越权设置和越权结果拆分。
+2.添加参数置空越权测试，打开后会自动将POST请求包和json请求包里的数据置空重新发送一遍请求包进行越权测试
+3.添加其他常见越权测试方法，可打开其他越权测试进行测试，例如：;.js,/;/等导致的越权
+<img width="40%" alt="image" src="https://github.com/user-attachments/assets/5f3414d8-00ab-4165-bcea-e195bad92450" />
+<img width="40%" alt="image" src="https://github.com/user-attachments/assets/c41ca474-486b-4f43-93ac-7d73bdc05fc5" />
+
+
+
 # xia Yue Pro V2.5 版本更新日志
 
 ## 新增功能
